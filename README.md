@@ -5,6 +5,6 @@ Currently a student at James Madison University. I'm currently working on cybers
 Some misc. items:
 
 - Currently learning C and microcoding _(RP2040)_ as well as soldering
-- Have experience in java and python
+- Have experience in java, python, C, and javascript
 - Like to homebrew every device I have
-- Hobby's include Video Games (*Street Fighter, Smash Bros.*), Taekwondo, programming, and reading
+- Hobby's include Programming, Reading, *Street Fighter*, and stretching
